@@ -1,0 +1,4 @@
+pywin32==310
+psutil==5.9.5
+PyQt5==5.15.9
+selenium==4.15.2 
