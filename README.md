@@ -44,3 +44,5 @@ python window_detector.py
 ## License
 
 MIT License. See [LICENSE](./LICENSE).
+
+原创代码采用 MIT；再分发请保留版权与许可文本。原始仓库：https://github.com/change979666/window-detector 。本仓库不捆绑第三方 SDK / 图标字体 / 数据集；`功能介绍.md` 为技术思路记录，其中未实现的方案不视为已交付功能。
